@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TradingPlatform_SOAP_WCF_Service.BrokerService" CodeBehind="BrokerService.svc.cs" %>

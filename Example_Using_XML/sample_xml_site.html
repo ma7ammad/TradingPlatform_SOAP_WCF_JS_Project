@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+		<h1 style="color:blue;">Book List</h1>
+ 		<h5 id="bookTitle" align="left"></h5>
+
+
+
+
+		<script>
+		var parser, xmlDoc;
+		var text = "<books>" +
+			"<book>" +
+				"<isbn>321341</isbn>" +
+				"<title>Tables For Layout</title>" +
+				"<authors>" +
+					"<author>Web DEv</author>" +
+					"<author>I. Frame</author>" +
+				"</authors>" +
+				"<price>5.95</price>" + 
+			"</book>" +
+			"<book>" +
+				"<isbn>875647</isbn>" +
+				"<title>UML Distilled</title>" +
+				"<authors>" +
+					"<author>Martin Fowler</author>" +
+				"</authors>" +
+				"<price>19.90</price>" + 
+			"</book>" +
+			"<book>" +
+				"<isbn>125324</isbn>" +
+				"<title>Learning XML</title>" +
+				"<authors>" +
+					"<author>Erik T. Ray</author>" +
+				"</authors>" +
+				"<price>39.95</price>" + 
+			"</book>" +
+		"</books>";
+
+   
+		var x, p, i, txt; 
+		parser = new DOMParser();
+		xmlDoc = parser.parseFromString(text,"text/xml");
+
+		   txt = "";
+			x = xmlDoc.getElementsByTagName("title");
+			p = xmlDoc.getElementsByTagName("price");
+			for (i = 0; i < x.length; i++) { 
+				txt += x[i].childNodes[0].nodeValue ;
+				
+				txt += "  Price: £" +p[i].childNodes[0].nodeValue + "<br>";
+			}
+			
+		document.getElementById("bookTitle").innerHTML = txt;				
+					
+		</script>
+
+</body>
+</html>
+
+ 
+ 
+

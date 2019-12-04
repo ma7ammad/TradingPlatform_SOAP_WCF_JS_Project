@@ -1,0 +1,12 @@
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\Pocos.dll.config
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\Pocos.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\Pocos.pdb
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\EntityFramework.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\EntityFramework.SqlServer.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\EntityFramework.xml
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\bin\Debug\EntityFramework.SqlServer.xml
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\obj\Debug\Pocos.csprojAssemblyReference.cache
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\obj\Debug\Pocos.csproj.CoreCompileInputs.cache
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\obj\Debug\Pocos.csproj.CopyComplete
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\obj\Debug\Pocos.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\Pocos\obj\Debug\Pocos.pdb

@@ -1,0 +1,10 @@
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\bin\Debug\TradingPlatformRepository.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\bin\Debug\TradingPlatformRepository.pdb
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\bin\Debug\Pocos.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\bin\Debug\Pocos.pdb
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\bin\Debug\Pocos.dll.config
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\obj\Debug\TradingPlatformRepository.csprojAssemblyReference.cache
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\obj\Debug\TradingPlatformRepository.csproj.CoreCompileInputs.cache
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\obj\Debug\TradingPlatformRepository.csproj.CopyComplete
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\obj\Debug\TradingPlatformRepository.dll
+D:\FDMCourses\JavaScript\TradingPlatformRepoDB1st4SOAP\TradingPlatformRepository\obj\Debug\TradingPlatformRepository.pdb
